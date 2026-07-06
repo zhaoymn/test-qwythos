@@ -1,0 +1,4 @@
+model/
+release/
+*.7z.*
+SHA256SUMS.txt
